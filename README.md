@@ -5,9 +5,9 @@
 
 Typically, when people reach an open-source project, they ask 3 questions
 
-#. What does it do?
-#. What state is it in?
-#. Can I use it?
+1. What does it do?
+2. What state is it in?
+3. Can I use it?
 
 
 - *Section 1* - [Structuring your project](project structure.md).
